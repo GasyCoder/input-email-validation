@@ -10,7 +10,7 @@ function validationEmail(email) {
   } else {
     return true;
   }
-}
+} 
 
 let isValidateEmail;
 
